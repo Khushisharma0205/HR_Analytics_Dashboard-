@@ -1,4 +1,4 @@
-# HR_Analytics_Dashboard-
+# HR_Analytics_Dashboard
 This project is an end-to-end HR analytics dashboard created in Power BI to analyze employee attrition trends and uncover insights that help businesses improve employee retention.
 
 # Project Objective-
